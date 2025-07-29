@@ -93,7 +93,7 @@ You can also use the [pre-trained model](https://drive.google.com/file/d/1I1z-Gm
 and set the path (params.checkpoint) in ./lib/test/parameter/rdtt.py
 
 ### Evaluation
-Put the raw results and label files test set in the [Toolkit](https://github.com/HengLan/LaSOT_Evaluation_Toolkit), and Run `run_tracker_performance_evaluation.m` in Matlab.
+Please use our toolkit [Toolkit](https://github.com/xuefeng-zhu5/RGBDT500_Evaluation_Toolkit), and Run `run_tracker_performance_evaluation.m` in Matlab.
 
 ## Contact
 If you have any question, please feel free to [contact us](xuefeng_zhu95@163.com)(xuefeng_zhu95@163.com)
