@@ -1,6 +1,6 @@
 # Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm
 The official implementation of the multi-modal (Vision, Depth and Thermal Infrared) RDTTrack tracker of the paper **Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm** \
-[**Dataset Website**](https://xuefeng-zhu5.github.io/RGBDT500/)
+## [**Dataset Website**](https://xuefeng-zhu5.github.io/RGBDT500/)
 
 <center><img width="75%" alt="" src="./rdttrack_framework.jpg"/></center>
 
